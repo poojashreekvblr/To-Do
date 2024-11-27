@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+**To-Do List Application**
+A simple and interactive To-Do List Application built using React.js. This app allows users to manage their tasks efficiently by adding, editing, deleting, and marking tasks as completed. It also features responsive design, ensuring a seamless experience across devices.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+**Table of Contents**
 
-### `npm start`
+- Demo
+- Features
+- Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+**Demo**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://github.com/user-attachments/assets/a9cd6a8e-2d0c-4290-9f8a-5689b3518c7f" alt="Main Screen" width="500px"/>
+<img src="https://github.com/user-attachments/assets/91bcc695-30b7-48a5-bee0-8e1adbc4580e" alt="Main Screen" width="500px"/>
+<img src="https://github.com/user-attachments/assets/3edd57b1-0e09-4aaa-b789-26b8c0d529e5" alt="Main Screen" width="500px"/>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Features**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Add New Tasks: Quickly add tasks to your list.
+- Edit Tasks: Modify existing task titles easily.
+- Mark as Completed: Toggle task completion with a single click.
+- Delete Tasks: Remove tasks permanently from your list.
+- Handles Long Titles: Prevents overflow by truncating long task titles with ellipses.
+- Error-Free Editing: Input fields auto-focus during editing for a smooth user experience.
+- Responsive Design: Ensures proper display across all devices and screen sizes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+**Technologies Used**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- React: JavaScript library for building interactive user interfaces.
+- React Icons: Library for incorporating intuitive icons like checkboxes, edit, and delete.
+- JavaScript: For application logic and interactivity.
+- HTML/CSS: For structuring and styling the application.
